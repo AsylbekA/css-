@@ -1,6 +1,6 @@
 # css
 #first project
- My spectrum Project
+My spectrum Project
 
 #second project
 Landing Page!
