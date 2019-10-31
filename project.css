@@ -1,0 +1,29 @@
+h1{
+font-family: 'Ma Shan Zheng', cursive;
+  text-align: center;
+}
+.art{
+  margin: auto;
+}
+td{
+  background-color: black;
+  height: 500px;
+  width: 200px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #CEFF1A
+}
+#two{
+  background-color:#001011
+}
+#three{
+  background-color: #757780
+}
+#four{
+  background-color: #FFFFFC
+}
+#five{
+  background-color:  #FF3E41
+}
